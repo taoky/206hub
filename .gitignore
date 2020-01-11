@@ -1,0 +1,12 @@
+# Node.js stuff
+node_modules
+
+# Yarn
+yarn-error.log
+
+# macOS
+.DS_Store
+
+# Gatsby stuff
+.cache/
+public

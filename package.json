@@ -1,0 +1,20 @@
+{
+  "name": "206hub",
+  "version": "2.0.0",
+  "description": "A static listing & commenting website",
+  "main": "index.js",
+  "repository": "https://github.com/ustclug-dev/206hub.git",
+  "author": "taoky <taoky AT mail.ustc.edu.cn>",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.32.3",
+    "gatsby-source-filesystem": "^2.11.0",
+    "gatsby-transformer-remark": "^2.16.0",
+    "gatsby-transformer-yaml": "^2.11.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}

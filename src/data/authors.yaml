@@ -1,6 +1,9 @@
 testA:
   name: AAA
-  avatar: null
+  avatar: ""
 testB:
   name: BBB
-  avatar: null
+  avatar: ""
+testC:
+  name: CCC
+  avatar: ""

@@ -1,0 +1,18 @@
+# Node.js stuff
+node_modules
+
+# Yarn
+yarn-error.log
+.cache
+
+# macOS
+.DS_Store
+
+# Parcel build
+frontend/dist/
+
+# Python venv
+processor/venv/
+
+# Editors
+.vscode/
